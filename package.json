@@ -1,0 +1,17 @@
+{
+  "name": "p3est",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
